@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vyshnav
+- 👋 Hi, I’m vyshnav
 - 👀 I’m interested in web apps, android development, AI
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
