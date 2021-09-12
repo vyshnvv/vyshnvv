@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyshnav
-- 👀 I’m interested in web apps, android devolopment, AI
-- 🌱 I’m currently learning web devolopment
+- 👀 I’m interested in web apps, android development, AI
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : vyshnav2720@outlook.com
 
