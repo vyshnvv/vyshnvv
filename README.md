@@ -1,8 +1,4 @@
-- 👋 Hi, I’m vyshnav
-- 👀 I’m interested in web apps, android development, AI
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : vyshnav2720@outlook.com
+Learning C | Java | Android Development | UI/UX
 
 <!---
 vyshnav2720/vyshnav2720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
