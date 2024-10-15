@@ -1,4 +1,4 @@
-# ✨ ʙᴏɴᴊᴏᴜʀ !:
+# ✨ ʙᴏɴᴊᴏᴜʀ !
 Learning C | Python | Flutter | UI/UX
 
 
