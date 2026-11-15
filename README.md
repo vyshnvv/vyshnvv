@@ -13,7 +13,7 @@ Day job: firewalls, SD-WAN and identity across an enterprise environment.
 Off hours: breaking and rebuilding my own lab to see what the traffic actually does.
 
 
-## 🏅 Certified
+## 🏅 Certifications
 
 <p>
   <img src="/ccna_med.jpg" height="90" alt="Cisco Certified Network Associate" />
