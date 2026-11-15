@@ -16,7 +16,7 @@ Off hours: breaking and rebuilding my own lab to see what the traffic actually d
 ## 🏅 Certified
 
 <p>
-  <img src="assets/ccna.jpg" height="90" alt="Cisco Certified Network Associate" />
+  <img src="/ccna_med.jpg" height="90" alt="Cisco Certified Network Associate" />
   &nbsp;
   <img src="https://img.shields.io/badge/Fortinet-NSE_3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet NSE 3" />
   &nbsp;
